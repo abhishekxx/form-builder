@@ -5,7 +5,7 @@ A dynamic form builder application that allows users to create, preview, and exp
 ## Features
 
 - Drag-and-drop form builder interface
-- Live form preview
+- Live form preview https://form-builder-inky-eta.vercel.app/
 - Support for multiple form components (text, select, radio, checkbox, textarea)
 - Form validation
 - Schema export functionality
